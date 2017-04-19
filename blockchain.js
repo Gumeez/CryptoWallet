@@ -1,0 +1,5 @@
+function blockChain(){
+  function block(){
+    
+  }
+}
