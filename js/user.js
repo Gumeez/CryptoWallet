@@ -15,4 +15,8 @@ function user() {
     this.setBalance = function (balance) {
         this.balance = balance;
     };
+
+    this.getWalletAddress = function (){
+      return this.walletAddress;
+    }
 }
